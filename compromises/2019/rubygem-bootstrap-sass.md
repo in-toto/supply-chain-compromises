@@ -17,9 +17,9 @@ after the initial report.
 ## Type of Compromise
 
 It's not entirely clear how the attackers gained write access to be able to
-publish a new version of the Gem. RubyGems has two maintainers who have since
-rotated their credentials and enabled multi-factor authentication. The source
-infrastructure appears to have been unaffected.
+publish a new version of the Gem. The package on RubyGems had two maintainers
+who have since rotated their credentials and enabled multi-factor
+authentication. The source infrastructure appears to have been unaffected.
 
 ## CVE Identifier
 
