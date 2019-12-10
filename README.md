@@ -7,6 +7,7 @@ as references, but that's ongoing work.
 
 | Name              | Year               | Type of compromise    | Link        |
 | ----------------- | ------------------ | ------------------    | ----------- |
+| [Webmin Backdoor](compromises/2019/webmin.md) | 2019 | Build Infrastructure | [1](http://www.webmin.com/exploit.html) |
 | [RubyGem strong_password](compromises/2019/rubygem-strong_password.md) | 2019 | Publishing Infrastructure | [1](https://withatwist.dev/strong-password-rubygem-hijacked.html), [2](https://nvd.nist.gov/vuln/detail/CVE-2019-13354) |
 | [RubyGem bootstrap-sass](compromises/2019/rubygem-bootstrap-sass.md) | 2019 | Publishing Infrastructure | [1](https://snyk.io/blog/malicious-remote-code-execution-backdoor-discovered-in-the-popular-bootstrap-sass-ruby-gem/), [2](https://dgb.github.io/2019/04/05/bootstrap-sass-backdoor.html), [3](https://nvd.nist.gov/vuln/detail/CVE-2019-10842) |
 | [ShadowHammer](compromises/2019/shadowhammer.md) | 2019 | Multiple steps | [1](https://www.csoonline.com/article/3384259/asus-users-fall-victim-to-supply-chain-attack-through-backdoored-update.html), [2](https://securelist.com/operation-shadowhammer/89992/) |
