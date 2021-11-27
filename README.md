@@ -1,6 +1,8 @@
 Software Supply Chain Compromises
 =================================
 
+**Note: This repository has now been archived, and the incidents here (and more) are now recorded in the CNCF tag-security repository: https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises. Feel free to open pull requests and/or issues there.**
+
 This repository contains links to articles of software supply chain
 compromises. In the future it also may contain ways to query and export these
 as references, but that's ongoing work.
